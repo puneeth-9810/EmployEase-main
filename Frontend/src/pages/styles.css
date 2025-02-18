@@ -1,0 +1,53 @@
+
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slide-content {
+    max-width: 60vh;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .slide-content h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .slide-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .slide-content button {
+    background-color: #006400; 
+    color: #ffffff; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .slide-content button:hover {
+    background-color: #004c4c; 
+  }
+
+  .slide-content form {
+    display: flex;
+    flex-direction: column;
+  }
+  .slide-content label {
+    align-self: flex-end;
+    font-weight: 600;
+  }
+ 
+  
